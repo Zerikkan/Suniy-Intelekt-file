@@ -1,2 +1,3 @@
-# drhdfh
-fchfghgh
+# Suniy-Intelekt-file
+Suniy intelekt filelari
+
